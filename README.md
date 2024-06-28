@@ -1,6 +1,5 @@
-<div align="center">
   ![Header](./github-header-image.png)
-</div>
+
 
 ###
 
@@ -24,7 +23,7 @@
 
 ###
 
-<p align="left">I'm hajeet from Delhi <br><br>- 🔭 I’m working as Android Developer ...<br>- 📚 I'm currently learning Android Rom Devleopment ...<br>- ⚡ In my free time I like to read books ...</p>
+<p align="left">I'm harjeet from Delhi <br><br>- 🔭 I’m working as Android Developer ...<br>- 📚 I'm currently learning Android Rom Devleopment ...<br>- ⚡ In my free time I like to read books ...</p>
 
 
 <h3 align="left">🔥   My Stats :</h3>
