@@ -1,37 +1,22 @@
-  ![Header](./github-header-image.png)
-
+<h2 align="center">Hi 👋! My name is Harjeet and I'm a Android Rom Developer </h2>
 
 ###
 
 <div align="center">
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=foxartic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foxartic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img height="150" src="https://tenor.com/bSqKH.gif"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<br clear="both">
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm harjeet from Delhi <br><br>- 🔭 I’m working as Android Developer ...<br>- 📚 I'm currently learning Android Rom Devleopment ...<br>- ⚡ In my free time I like to read books ...</p>
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/foxartic/foxartic/output/snake.svg" alt="Snake animation" />
 
 ###
