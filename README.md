@@ -8,15 +8,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://tenor.com/bSqKH.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/foxartic/foxartic/output/snake.svg" alt="Snake animation" />
-
-###
